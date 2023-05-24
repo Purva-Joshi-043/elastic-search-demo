@@ -20,6 +20,6 @@ async function bootstrap() {
       },
     }),
   );
-  console.log('server is up and running');
+  console.log('Server is up and running');
 }
 bootstrap();
